@@ -31,7 +31,7 @@ function index() {
         <div class="bg-gray-100 p-6 rounded-lg">
           <Image class="h-40 rounded w-full object-cover object-center mb-6" src="/picsamp/Lechon3.webp"  width={100} height={100} alt="content"></Image>
           <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Lechon Paksiw</h2>
-          <p class="leading-relaxed text-base">I'm sure after the festive events, your taste buds are craving a refresh, and the tangy sauce from Lechon Paksiw is a good start!</p>
+          <p class="leading-relaxed text-base">Im sure after the festive events, your taste buds are craving a refresh, and the tangy sauce from Lechon Paksiw is a good start!</p>
         </div>
       </div>
       <div class="xl:w-1/4 md:w-1/2 p-4">

@@ -11,7 +11,7 @@ function index() {
     </div>
     <div class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
       <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Homemade Lechon
-        <br class="hidden lg:inline-block"/>Get one before it's sold out!
+        <br class="hidden lg:inline-block"/>Get one before its sold out!
       </h1>
       <p class="mb-8 leading-relaxed">Our lechon is prepared stuffed with herbs which usually include scallions, bay leaves, black peppercorn, garlic, salt, and distinctively tanglad (lemongrass), among other spices. A variant among Hiligaynon people also stuffs the pig with batuan or binukaw (Garcinia binucao). It is usually cooked over charcoal made from coconut husks. Since it is already flavored with spices, it is served with minimal dipping sauces, like salt and vinegar or silimansi (soy sauce, calamansi, and labuyo chili).</p>
       <div class="flex justify-center">

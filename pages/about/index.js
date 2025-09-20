@@ -6,7 +6,7 @@ function index() {
     <div><section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
     <div class="lg:w-1/2 w-full mb-10 lg:mb-0 rounded-lg overflow-hidden">
-      <img alt="feature" class="object-cover object-center h-full w-full" src="./picsamp/Lechon5.webp"></img>
+      <Image alt="feature" class="object-cover object-center h-full w-full"  width={1000} height={1000} src="/picsamp/Lechon5.webp"></Image>
     </div>
     <div class="flex flex-col flex-wrap lg:py-6 -mb-10 lg:w-1/2 lg:pl-12 lg:text-left text-center">
       <div class="flex flex-col mb-10 lg:items-start items-center">
